@@ -2,7 +2,7 @@
   "name": "nested_form",
   "version": "0.1.0",
   "main": "vendor/assets/javascripts/jquery_nested_form.js",
-  "repository": "https://github.com/aki77/nested_form",
+  "repository": "https://github.com/SonicGarden/nested_form",
   "license": "MIT",
   "files": [
     "README.md",
